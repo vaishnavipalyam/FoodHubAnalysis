@@ -2,7 +2,7 @@
 
 A comprehensive data analysis project on FoodHub, a fictional food delivery aggregator, to uncover insights on customer behavior, restaurant performance, cuisine popularity, and operational efficiency.
 
-![FoodHub Banner]([https://raw.githubusercontent.com/yourusername/yourrepo/main/banner-foodhub.png](https://github.com/vaishnavipalyam/FoodHubAnalysis/blob/main/FoodHub_banner.png))
+![FoodHub Banner](https://github.com/vaishnavipalyam/FoodHubAnalysis/blob/8ad2c3082413913ad0d9a49ee4b6acf0bf5a196e/FoodHub_banner.png)
 
 ---
 
